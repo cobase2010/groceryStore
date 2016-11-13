@@ -1,0 +1,17 @@
+{
+  "name": "grocerystore",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "cobase2010 <cobase2010@live.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
